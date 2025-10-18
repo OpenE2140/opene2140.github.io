@@ -2,7 +2,6 @@
 layout: page
 title: How To Install
 permalink: /how-to-install/
-hide_hero: true
 ---
 
 # How to install OpenE2140?
