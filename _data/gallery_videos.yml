@@ -6,3 +6,7 @@
     - embed: https://dalek.zone/videos/embed/d09b183e-ba05-4862-a3ce-bbf03d021648?autoplay=1
       description: "Multiplayer preview (May 2025)"
       thumbnail: https://dalek.zone/lazy-static/previews/5c2d6ce8-174e-48b3-8698-8854da172532.jpg
+
+    - embed: https://dalek.zone/videos/embed/6be794d3-d9ca-48aa-87bd-fc20981a825e?autoplay=1
+      description: "Multiplayer Alpha launch trailer"
+      thumbnail: https://dalek.zone/lazy-static/previews/a256c479-bcf4-4300-9e3b-2f14e2a2dd6f.jpg
