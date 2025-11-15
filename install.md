@@ -26,11 +26,25 @@ Download and install OpenE2140 from the [Download page]({% link download.html %}
 OpenE2140 also runs on Windows 7 and 8.1, but these versions are not officially supported (Microsoft has dropped support for them) and OpenE2140 may stop working on them at any time. Use at your own risk.
 
 ## Installing the game assets
-After installing OpenE2140, you will need to supply the original game assets. Currently, only the digital versions are officially supported.
+After installing OpenE2140, you will need to supply the original game assets. Currently, only the digital versions are officially supported. After installing the original game via the official clients of these stores, OpenE2140 can automatically detect and copy the necessary content from your installation.
+
+Just start the game and press **Advanced Install**:
 
 {% include figure.html alt="Installation wizard for the game assets" src="images/how-to-install/content-manager-main.jpg" %}
 
-After installing the original game via the official clients of these stores, OpenE2140 can automatically detect and copy the necessary content from your installation. Just start the game and press **Detect Disc or Installation**. This is the recommended method.
+A new dialog opens, which shows all possible content packages that can be installed:
+
+{% include figure.html alt="Content Manager displays all the game content OpenE2140 supports" src="images/how-to-install/content-manager-clean.jpg" %}
+
+Only **Game Files** are absolutely necessary; the rest of them are just music soundtracks. Press **Detect Disc or Installation** to continue. A new dialog opens, where you can select what do you want to install.
+
+{% include figure.html alt="Package selection" src="images/how-to-install/content-manager-package-selection.jpg" %}
+
+After choosing, press Continue to start the installation process. A dialog with progress is shown:
+
+{% include figure.html alt="The installation is very quick." src="images/how-to-install/content-manager-package-installation.jpg" %}
+
+After obtaining soundtracks, you can install them the same way. Press **Back** to start the actual game:
 
 {% include figure.html alt="Apart from the required game files, soundtracks can also be installed." src="images/how-to-install/content-manager-game-files-soundtrack-installed.jpg" %}
 
